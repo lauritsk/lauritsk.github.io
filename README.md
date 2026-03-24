@@ -1,2 +1,2 @@
 # lauritsk.github.io
-personal blog
+personal dashboard
